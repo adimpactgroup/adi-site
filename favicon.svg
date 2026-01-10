@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="iconTitle iconDesc" preserveAspectRatio="xMidYMid meet">
+  <title id="iconTitle">ADI gold circle icon</title>
+  <desc id="iconDesc">Square dark tile with a centered gold circle — usable as a compact brand icon or placeholder favicon.</desc>
+  <rect width="64" height="64" fill="#0b0b0c"/>
+  <circle cx="32" cy="32" r="10" fill="#D4AF37"/>
+</svg>

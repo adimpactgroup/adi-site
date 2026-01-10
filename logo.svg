@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="48" viewBox="0 0 180 48" role="img" aria-labelledby="logoTitle logoDesc" preserveAspectRatio="xMinYMid meet">
+  <title id="logoTitle">ADI Associates</title>
+  <desc id="logoDesc">Brand wordmark: large gold "ADI" with smaller gray "ASSOCIATES" to the right.</desc>
+  <rect width="180" height="48" fill="none"/>
+  <text x="12" y="30" font-family="Playfair Display, Georgia, serif" font-size="26" font-weight="700" fill="#D4AF37">ADI</text>
+  <text x="82" y="31" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" fill="#b8b8b8" letter-spacing="2">ASSOCIATES</text>
+</svg>
