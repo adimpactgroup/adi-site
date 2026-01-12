@@ -1,5 +1,5 @@
 (function () {
-  // Set HOME to your site's homepage path: '/' or '/index.html'
+  // Homepage path for this site
   const HOME = '/';
 
   function handleNavHashClick(e) {
